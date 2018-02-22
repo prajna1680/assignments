@@ -1,0 +1,12 @@
+body{
+	margin: auto;
+	width: 500px;
+	background: grey;
+	padding-top: 10px;
+	
+}
+blockquote {
+	border: solid white;
+	text-align: center;
+	margin-left: 0px;
+}
